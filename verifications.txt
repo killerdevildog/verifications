@@ -1,0 +1,3 @@
+# Verification Records
+# Format: [TIMESTAMP] | Project: NAME | Commit: HASH | SHA-512: HASH
+
